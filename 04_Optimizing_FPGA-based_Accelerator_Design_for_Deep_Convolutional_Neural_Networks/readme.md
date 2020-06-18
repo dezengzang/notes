@@ -1,0 +1,1 @@
+我的一门课，需要汇报一篇论文，我选的这篇《Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks》，并将其数据流用动画的形式简单表示出来。由于硬件设计方面基础不够，所以做的PPT可能会有些错误，但是还是希望能对大家有些帮助。
